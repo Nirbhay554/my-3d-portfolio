@@ -9,28 +9,28 @@ const projects = [
     category: "Full-stack AI platform",
     tools: "React, Node.js, Supabase, Gemini API",
     image: "/images/mock-interview.png",
-    link: "https://github.com/Nirbhay554",
+    link: "https://ai-mock-interview-liard-six.vercel.app/",
   },
   {
     title: "AI Voice Calling Agent",
     category: "Outbound AI agent",
     tools: "LiveKit Agents, Twilio, Deepgram, ElevenLabs, Claude API",
     image: "/images/ai-voice.png",
-    link: "https://github.com/Nirbhay554",
+    link: "#",
   },
   {
     title: "Task Management Dashboard",
     category: "Full-stack task management",
     tools: "Next.js 14, TypeScript, Redux Toolkit, PostgreSQL",
     image: "/images/task-dashboard.png",
-    link: "https://github.com/Nirbhay554",
+    link: "#",
   },
   {
     title: "Job Aggregator Platform",
     category: "Full-stack job board",
     tools: "React, Node.js, MongoDB, JWT, RapidAPI",
     image: "/images/job-aggregator.png",
-    link: "https://github.com/Nirbhay554",
+    link: "https://job-aggregator-eight.vercel.app",
   },
 ];
 
