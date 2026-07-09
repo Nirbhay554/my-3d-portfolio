@@ -25,6 +25,13 @@ const projects = [
     image: "/images/job-aggregator.png",
     link: "https://job-aggregator-eight.vercel.app",
   },
+  {
+    title: "AI Voice Calling Agent",
+    category: "Outbound AI agent",
+    tools: "LiveKit Agents, Twilio, Deepgram, ElevenLabs, Claude API",
+    image: "/images/ai-voice.png",
+    link: "#",
+  },
 ];
 
 const Work = () => {
