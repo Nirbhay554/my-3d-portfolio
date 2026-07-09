@@ -29,9 +29,6 @@ const setCharacter = (
             character = gltf.scene;
             await renderer.compileAsync(character, camera, scene);
             character.traverse((child: any) => {
-              if (child.name.toLowerCase().includes("cap") || child.name.toLowerCase().includes("hat")) {
-                child.visible = false;
-              }
               if (child.isMesh) {
                 const mesh = child as THREE.Mesh;
 
