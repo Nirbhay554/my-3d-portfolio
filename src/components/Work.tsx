@@ -12,18 +12,11 @@ const projects = [
     link: "https://ai-mock-interview-liard-six.vercel.app/",
   },
   {
-    title: "AI Voice Calling Agent",
-    category: "Outbound AI agent",
-    tools: "LiveKit Agents, Twilio, Deepgram, ElevenLabs, Claude API",
-    image: "/images/ai-voice.png",
-    link: "#",
-  },
-  {
     title: "Task Management Dashboard",
     category: "Full-stack task management",
     tools: "Next.js 14, TypeScript, Redux Toolkit, PostgreSQL",
     image: "/images/task-dashboard.png",
-    link: "#",
+    link: "https://github.com/Nirbhay554/task-dashboard",
   },
   {
     title: "Job Aggregator Platform",
