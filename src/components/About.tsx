@@ -6,11 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I'm Nirbhay Singh, a B.Tech Electronics & Communication Engineering student at IIIT Dharwad (2024–2028),
+          and a highly motivated Full Stack Web Developer. I specialize in building scalable, responsive web applications using modern JavaScript frameworks and RESTful APIs. 
+          With a strong foundation in Data Structures & Algorithms (125+ LeetCode solutions), I excel at delivering end-to-end 
+          solutions—from UI/UX design to robust backend architecture.
         </p>
       </div>
     </div>
